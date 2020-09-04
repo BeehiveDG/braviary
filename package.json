@@ -34,7 +34,7 @@
         "moment-timezone": "^0.5.23",
         "v-tooltip": "^2.0.1",
         "vue-clipboards": "^1.2.4",
-        "vue-moment": "^4.0.0",
+        "vue-moment": "^4.1.0",
         "vue-router": "^3.0.2",
         "vuex": "^3.0.1"
     }
